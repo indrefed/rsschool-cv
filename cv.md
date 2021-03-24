@@ -25,6 +25,7 @@ Lorem Ipsum is *simply dummy text* of the printing and typesetting industry. Lor
 - Intellij
 - Visual Studio Code
 - Maven
+- Databases (MySQL, PostgreSql)
 
 ##Languages
 1. Lithuanian
