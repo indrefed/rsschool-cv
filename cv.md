@@ -11,7 +11,7 @@ Linkedin: lindedin.com/engineer
 ###About me
 Lorem Ipsum is *simply dummy text* of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever **since the 1500s**, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
 
-###Skills
+##Skills
 
 ###Technical
 #####Programming languages
@@ -63,6 +63,11 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 ##Education
 
+####University A
+Bachelor degree in University A.
+
+####Courses A
+Programming course in School A.
 
 ##English
 Working language most of the time.
